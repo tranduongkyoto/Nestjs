@@ -20,7 +20,7 @@ $ npm install
 ```
 
 ## Running the app
-Rename ".env.env" to ".env" and update the values/settings to your own before run app
+Rename ".env.sample" to ".env" and update the values/settings to your own before run app
 ```bash
 # development
 $ npm run start
