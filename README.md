@@ -7,8 +7,8 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 Project in Udemy Course(NestJS: The Complete Developer's Guide, author : Stephen Grider)
+
 Link udemy course: https://www.udemy.com/course/nestjs-the-complete-developers-guide/
 
 
