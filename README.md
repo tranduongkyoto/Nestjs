@@ -7,6 +7,8 @@
 
 ## Description
 
+Tech Stack: Nestjs, TypeScript, TypeORM, Sqlite(dev env)
+
 Project in Udemy Course(NestJS: The Complete Developer's Guide, author : Stephen Grider)
 
 Link udemy course: https://www.udemy.com/course/nestjs-the-complete-developers-guide/
